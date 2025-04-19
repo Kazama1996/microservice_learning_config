@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PRODUCTION APIS(in github repo)"
+  message: "Welcome to EazyBank accounts related prod(bus) APIS(in github repo)"
   contactDetails:
     name: "GGAAQW-Product Owner"
     email: "{cipher}84c4456cbd464a611658ac66fa0bb79bb578d36b410efaaa471eb28e44d208c033813f12b9e7043970129ba567124feb"
