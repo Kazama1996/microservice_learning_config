@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related PRODUCTION APIS (in github repo)"
+  message: "Welcome to EazyBank cards related prod(bus) APIS (in github repo)"
   contactDetails:
     name: "GGAAQW-Product Owner"
     email: "ooosdasdwwes@mail.com"
