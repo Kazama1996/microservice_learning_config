@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIS(in github repo)"
+  message: "Welcome to EazyBank accounts related docker-container QA APIS(in github repo)"
   contactDetails:
     name: "adam-QA"
     email: "adam@mail.com"
