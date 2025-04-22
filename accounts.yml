@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIS (in github repo)"
+  message: "Welcome to EazyBank accounts related docker-comtainer APIS (in github repo)"
   contactDetails:
     name: "Kazama-Developer"
     email: "Kazama@mail.com"
